@@ -1,0 +1,22 @@
+{
+  "name": "fem-article-preview-component",
+  "version": "1.0.0",
+  "description": "preview articles in lightbox before publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BFrancoeur/fem-article-preview-component.git"
+  },
+  "author": "Brian Francoeur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BFrancoeur/fem-article-preview-component/issues"
+  },
+  "homepage": "https://github.com/BFrancoeur/fem-article-preview-component#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
